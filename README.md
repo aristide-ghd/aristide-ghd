@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 I’m **Aristide GBOHAÏDA**, a freelance web developer 👨‍💻.
 
