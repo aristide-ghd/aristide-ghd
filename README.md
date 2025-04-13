@@ -19,12 +19,9 @@ Formed in web development through OpenClassrooms, I’ve worked in teams on vari
 
 ### 🌍 Connect with me:
 
-#### Instagram:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ebounoluwa) **ebounoluwa**  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ariluxury2023) **ariluxury2023**
-
-#### LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aristide-gbohaïda60140) **Aristide GBOHAÏDA**
+- **Instagram**: [ebounoluwa](https://instagram.com/ebounoluwa)
+- **Instagram**: [ariluxury2023](https://instagram.com/ariluxury2023)
+- **LinkedIn**: [Aristide GBOHAÏDA](https://linkedin.com/in/aristide-gbohaïda60140)
 
 ---
 
