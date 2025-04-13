@@ -4,8 +4,6 @@ I’m **Aristide GBOHAÏDA**, a freelance web developer 👨‍💻.
 
 Formed in web development through OpenClassrooms, I’ve worked in teams on various IT projects, building my skills in web development and collaborative work.
 
----
-
 ### 🌱 I’m currently learning:
 - How to design APIs in Node.js.
 - I want to deepen my knowledge in backend technologies.
