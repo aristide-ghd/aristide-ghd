@@ -19,11 +19,14 @@ Développeur passionné, je maîtrise plusieurs technologies du web moderne avec
 
 ## 🚀 Projets Significatifs
 
-🔬 [**Suivi_renale**](https://github.com/aristide-ghd/Suivi_renale) :
+🔬 [**lp_project_js**](https://github.com/aristide-ghd/lp_project_js) :
 - Plateforme de suivi médical pour les patients atteints d’insuffisance rénale.
   
 🌸 [**laurelle-projet**](https://github.com/aristide-ghd/laurelle-projet) :
 - Application web pour la gestion financière d'une entreprise e-commerce.
+  
+🔬 [**Projet-CRUD**](https://github.com/aristide-ghd/Projet-CRUD) :
+- Système sécurisé de gestion CRUD avec PHP
 
 ---
 
