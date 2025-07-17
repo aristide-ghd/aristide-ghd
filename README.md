@@ -1,32 +1,47 @@
-## 👋 Hi there 
+# 👋 Bienvenue sur mon profil GitHub !
 
-I’m **Aristide GBOHAÏDA**, a freelance web developer 👨‍💻.
+## 🧠 À propos de moi
 
-Formed in web development through OpenClassrooms, I’ve worked in teams on various IT projects, building my skills in web development and collaborative work.
-
----
-
-### 🌱 I’m currently learning:
-
-- How to design APIs in Node.js.
-- I want to deepen my knowledge in backend technologies.
+Développeur passionné, je maîtrise plusieurs technologies du web moderne avec un intérêt particulier pour le développement **fullstack** et les architectures robustes.
 
 ---
 
-### 🤝 I’m looking to collaborate on:
+## 🛠️ Compétences Techniques
 
-- Working with other people or teams on innovative projects.
-
----
-
-### 🌍 Connect with me:
-
-- **Instagram**: [ebounoluwa](https://instagram.com/ebounoluwa)
-- **Instagram**: [ariluxury2023](https://instagram.com/ariluxury2023)
-- **LinkedIn**: [Aristide GBOHAÏDA](https://linkedin.com/in/aristide-gbohaïda60140)
+| Technologies | Frameworks / Outils |
+|-------------|---------------------|
+| 💻 PHP, HTML, CSS, JavaScript | Bootstrap, Node.js, Express |
+| 🗄️ Base de données | MongoDB, MySQL |
+| 🌐 Fullstack JS | Node.js + Express + MongoDB |
+| 🎨 Intégration | Bootstrap, responsive design |
 
 ---
 
-### ⚡ Fun fact:
+## 🚀 Projets Significatifs
 
-I love coding, solving problems, and learning new technologies every day!
+- 🔬 **suivi-rénale** : application de suivi médical pour les patients atteints d’insuffisance rénale.
+- 🌸 **laurelle-projet** : site web professionnel vitrine et gestion de contenu.
+
+---
+
+## ✨ En cours / À venir
+
+- 🔧 Refonte graphique de certains projets en Bootstrap 5.
+- 🧪 Tests sur l'intégration MongoDB + Express sécurisée.
+- 📘 Création d’un blog personnel pour partager mes apprentissages.
+
+---
+
+## 🔗 Me contacter
+
+- 📧 Email : [aristidegbohaida@gmail.com](mailto:aristidegbohaida@gmail.com)
+- 💼 LinkedIn : [linkedin.com/in/aristide-gbohaida](https://www.linkedin.com/in/aristide-gbohaida) *(à personnaliser si besoin)*
+
+---
+
+## ✨ Fun Fact
+
+> "Pour moi, coder c’est plus qu’un métier. C’est un moyen de créer, d’innover et d’impacter le monde avec de simples lignes de code."
+
+---
+
