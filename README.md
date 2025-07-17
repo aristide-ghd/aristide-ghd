@@ -18,7 +18,8 @@ Développeur passionné, je maîtrise plusieurs technologies du web moderne avec
 ---
 
 ## 🚀 Projets Significatifs
-###🔬 [**Suivi_renale**](https://github.com/aristide-ghd/Suivi_renale) :
+
+🔬 [**Suivi_renale**](https://github.com/aristide-ghd/Suivi_renale) :
 - Application de suivi médical pour les patients atteints d’insuffisance rénale.
 🌸 [**laurelle-projet**](https://github.com/aristide-ghd/laurelle-projet) :
 - Site web professionnel vitrine et gestion de contenu.
