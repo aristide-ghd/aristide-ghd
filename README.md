@@ -21,7 +21,6 @@ Développeur passionné, je maîtrise plusieurs technologies du web moderne avec
 
 🔬 [**Suivi_renale**](https://github.com/aristide-ghd/Suivi_renale) :
 - Application de suivi médical pour les patients atteints d’insuffisance rénale.
-- 
 🌸 [**laurelle-projet**](https://github.com/aristide-ghd/laurelle-projet) :
 - Site web professionnel vitrine et gestion de contenu.
 
@@ -38,7 +37,7 @@ Développeur passionné, je maîtrise plusieurs technologies du web moderne avec
 ## 🔗 Me contacter
 
 - 📧 Email : [aristidegbohaida@gmail.com](mailto:aristidegbohaida@gmail.com)
-- 💼 LinkedIn : [linkedin.com/in/aristide-gbohaida](https://www.linkedin.com/in/aristide-gbohaida) *(à personnaliser si besoin)*
+- 💼 LinkedIn : [linkedin.com/in/aristide-gbohaida](https://www.linkedin.com/in/aristidegbohaida)
 
 ---
 
