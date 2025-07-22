@@ -25,7 +25,7 @@ Développeur passionné, je maîtrise plusieurs technologies du web moderne avec
 🌸 [**laurelle-projet**](https://github.com/aristide-ghd/laurelle-projet) :
 - Application web pour la gestion financière d'une entreprise e-commerce.
   
-🔬 [**Projet-CRUD**](https://github.com/aristide-ghd/Projet-CRUD) :
+🔬 [**Projet-CRUD**](https://github.com/aristide-ghd/Projet-CRUD-PHP) :
 - Système sécurisé de gestion CRUD avec PHP
 
 ---
