@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20Gbohaida&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20GBOHAÏDA&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
     width="100%"
   />
 </p>
