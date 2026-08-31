@@ -6,14 +6,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20GBOHAÏDA&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20Gbohaida&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Je+con%C3%A7ois+des+syst%C3%A8mes+backend+robustes;Je+d%C3%A9veloppe+des+REST+APIs+avec+Node.js;PostgreSQL+%7C+Express+%7C+Prisma;Actuellement+en+transition+vers+TypeScript"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Je+con%C3%A7ois+des+syst%C3%A8mes+backend+robustes;Je+d%C3%A9veloppe+des+REST+APIs+avec+Node.js;PostgreSQL+%7C+MongoDB+%7C+Express+%7C+Prisma;Actuellement+en+transition+vers+TypeScript"
     alt="Animation de présentation"
   />
 </p>
@@ -34,43 +34,53 @@
 
 ## `$ whoami`
 
-```text id="m4v2ka"
+```text id="h2h3wq"
 Aristide Gbohaida
 ├── Rôle        → Backend Developer
 ├── Spécialité  → Développement Backend Node.js
 ├── Runtime     → Node.js
 ├── Framework   → Express
-├── Base de données → PostgreSQL
+├── SQL         → PostgreSQL
+├── NoSQL       → MongoDB
 ├── ORM         → Prisma
+├── ODM         → Mongoose
 └── Apprentissage → TypeScript
 ```
 
 Je suis **Backend Developer**, spécialisé dans le développement d'applications backend et d'APIs REST avec **Node.js**.
 
-Je m'intéresse particulièrement aux problématiques qui nécessitent une réflexion approfondie :
+Je travaille principalement avec **PostgreSQL** et **MongoDB**, selon les besoins du projet, en utilisant notamment **Prisma** et **Mongoose** pour l'accès et la gestion des données.
 
-* architecture backend ;
-* conception d'APIs ;
-* modélisation des données ;
-* authentification et autorisation ;
-* validation ;
-* règles métier ;
-* sécurité ;
-* maintenabilité du code.
+Je m'intéresse particulièrement aux problématiques liées à :
 
-Mon objectif est de construire des backends qui ne sont pas seulement fonctionnels, mais également **structurés, fiables et capables d'évoluer avec le projet**.
+* l'architecture backend ;
+* la conception d'APIs REST ;
+* la modélisation des données ;
+* l'authentification et l'autorisation ;
+* la validation ;
+* les règles métier ;
+* la sécurité ;
+* la maintenabilité du code.
 
 ---
 
-## ⚙️ Stack principale
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,git,github,linux" />
-</p>
+## ⚙️ Stack technique
 
 ### Backend
 
-`JavaScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts" />
+</p>
+
+`JavaScript` · `Node.js` · `Express` · `TypeScript`
+
+### Bases de données & Data Access
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mongoose" />
+</p>
+
+`PostgreSQL` · `MongoDB` · `Prisma` · `Mongoose`
 
 ### Architecture & Engineering
 
@@ -78,13 +88,17 @@ Mon objectif est de construire des backends qui ne sont pas seulement fonctionne
 
 ### Outils
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+</p>
+
 `Git` · `GitHub` · `Linux` · `Postman`
 
 ---
 
 ## 🏗️ Architecture Backend
 
-Je privilégie une séparation claire des responsabilités afin de garder un backend **compréhensible, maintenable et évolutif**.
+Je privilégie une séparation claire des responsabilités afin de construire des backends **compréhensibles, maintenables et évolutifs**.
 
 ```text
                     ┌───────────────┐
@@ -114,27 +128,28 @@ Je privilégie une séparation claire des responsabilités afin de garder un bac
           │ Rules        │      │              │
           └──────────────┘      └──────┬───────┘
                                        │
-                                       ▼
-                                ┌────────────┐
-                                │ PostgreSQL │
-                                └────────────┘
+                         ┌─────────────┴─────────────┐
+                         ▼                           ▼
+                  ┌────────────┐              ┌────────────┐
+                  │ PostgreSQL │              │  MongoDB   │
+                  └────────────┘              └────────────┘
 ```
 
 ### Ce qui m'intéresse particulièrement
 
-* 🔐 Authentication & Authorization
 * 🌐 REST API Design
+* 🔐 Authentication & Authorization
+* 🛡️ API Security
 * 🗄️ Database Design
 * 📋 Business Logic
 * ✅ Validation & Business Rules
 * 🔄 Transactions
 * 🧩 Modular Architecture
-* 🛡️ API Security
 * ⚡ Maintainable Code
 
 ---
 
-# 🚀 Projet principal
+# 💼 Expérience professionnelle
 
 ## 🏢 Ebulletin
 
@@ -157,39 +172,47 @@ Le projet est développé dans le cadre de mon activité professionnelle au sein
 
 ### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,js" />
-</p>
-
 `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `JavaScript`
 
 > Ce projet représente une partie importante de mon expérience actuelle en développement backend.
 
 ---
 
-# 📂 Projets personnels
+# 🚀 Projets
 
-### 🔬 Plateforme de suivi médical
+## 🔬 Plateforme de suivi médical
 
-Application web destinée au suivi de patients atteints d'insuffisance rénale.
+Projet réalisé dans le cadre de ma **soutenance de fin de formation**, en collaboration avec un autre développeur.
 
-**Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB`
+J'ai principalement pris en charge la **conception et le développement du backend** de l'application.
+
+### Mon rôle
+
+* Conception de l'API backend
+* Gestion de la logique métier
+* Gestion des données
+* Développement des endpoints
+* Intégration avec la base de données
+
+**Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB` · `Mongoose`
 
 ---
 
-### 🌸 Gestion financière e-commerce
+## 🌸 Application de gestion financière e-commerce
 
-Application web destinée à la gestion financière d'une entreprise spécialisée dans le e-commerce.
+Projet réalisé en **équipe** pour une entreprise évoluant dans le secteur du e-commerce.
 
-**Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB`
+J'ai principalement pris en charge la **partie backend** de l'application.
 
----
+### Mon rôle
 
-### 🧩 Application CRUD PHP
+* Conception et développement du backend
+* Développement des APIs
+* Gestion de la logique métier
+* Gestion de la base de données
+* Intégration entre le backend et les fonctionnalités de l'application
 
-Application de gestion de données développée avec un backend PHP et une base de données relationnelle.
-
-**Technologies :** `PHP` · `MySQL` · `HTML` · `CSS` · `Bootstrap`
+**Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB` · `Mongoose`
 
 ---
 
@@ -199,7 +222,7 @@ Application de gestion de données développée avec un backend PHP et une base 
 
 Je suis actuellement en transition de **JavaScript vers TypeScript** pour mon développement backend.
 
-L'objectif n'est pas uniquement d'apprendre la syntaxe du langage, mais de savoir l'intégrer correctement dans une **architecture backend réelle**.
+Mon objectif est d'intégrer TypeScript dans de véritables architectures backend et de comprendre comment tirer parti du typage statique dans des applications Node.js.
 
 ```text
 JavaScript
@@ -229,27 +252,18 @@ Backend Development
 │
 ├── REST API Design
 ├── Architecture Backend
-├── Database Design
+├── PostgreSQL
+├── MongoDB
 ├── Authentication & Authorization
 ├── API Security
 ├── Business Logic
+├── Database Design
 ├── Transactions
 ├── Maintainable Code
 └── TypeScript
 ```
 
 Je cherche particulièrement à comprendre **pourquoi** une architecture ou une approche est pertinente, et pas seulement à faire fonctionner une fonctionnalité.
-
----
-
-# 📈 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aristide-ghd&show_icons=true&hide_border=true&theme=transparent&hide_title=true"
-    height="160"
-  />
-</p>
 
 ---
 
