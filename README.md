@@ -177,6 +177,8 @@ Le projet est développé dans le cadre de mon activité professionnelle au sein
 
 Projet réalisé dans le cadre de ma **soutenance de fin de formation**, en collaboration avec un autre développeur.
 
+Pensé pour les patients atteints d'insuffisance rénale.
+
 J'ai principalement pris en charge la **conception et le développement du backend** de l'application.
 
 ### Mon rôle
