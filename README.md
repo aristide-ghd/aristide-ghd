@@ -6,14 +6,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20Gbohaida&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20GBOHAÏDA&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Je+con%C3%A7ois+des+syst%C3%A8mes+backend+robustes;Je+d%C3%A9veloppe+des+REST+APIs+avec+Node.js;PostgreSQL+%7C+MongoDB+%7C+Express+%7C+Prisma;Actuellement+en+transition+vers+TypeScript"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Je+con%C3%A7ois+des+syst%C3%A8mes+backend+robustes;Je+d%C3%A9veloppe+des+REST+APIs+avec+Node.js;PostgreSQL+%7C+MongoDB+%7C+Express+%7C+Prisma+%7C+Mongoose;Actuellement+en+transition+vers+TypeScript"
     alt="Animation de présentation"
   />
 </p>
