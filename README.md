@@ -34,17 +34,17 @@
 
 ## `$ whoami`
 
-```text id="h2h3wq"
+```text
 Aristide Gbohaida
-├── Rôle        → Backend Developer
-├── Spécialité  → Développement Backend Node.js
-├── Runtime     → Node.js
-├── Framework   → Express
-├── SQL         → PostgreSQL
-├── NoSQL       → MongoDB
-├── ORM         → Prisma
-├── ODM         → Mongoose
-└── Apprentissage → TypeScript
+├── Rôle             → Backend Developer
+├── Spécialité       → Développement Backend Node.js
+├── Runtime          → Node.js
+├── Framework        → Express
+├── SQL              → PostgreSQL
+├── NoSQL            → MongoDB
+├── ORM              → Prisma
+├── ODM              → Mongoose
+└── Apprentissage    → TypeScript
 ```
 
 Je suis **Backend Developer**, spécialisé dans le développement d'applications backend et d'APIs REST avec **Node.js**.
@@ -98,54 +98,47 @@ Je m'intéresse particulièrement aux problématiques liées à :
 
 ## 🏗️ Architecture Backend
 
-Je privilégie une séparation claire des responsabilités afin de construire des backends **compréhensibles, maintenables et évolutifs**.
+Je privilégie une architecture modulaire avec une **séparation claire des responsabilités**.
 
 ```text
-                    ┌───────────────┐
-                    │    Client     │
-                    │ Web / Mobile  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     Routes    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  Controllers  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    Services   │
-                    └───────┬───────┘
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-          ┌──────────────┐      ┌──────────────┐
-          │ Business     │      │ Repositories │
-          │ Rules        │      │              │
-          └──────────────┘      └──────┬───────┘
-                                       │
-                         ┌─────────────┴─────────────┐
-                         ▼                           ▼
-                  ┌────────────┐              ┌────────────┐
-                  │ PostgreSQL │              │  MongoDB   │
-                  └────────────┘              └────────────┘
+Client Web / Mobile
+        │
+        ▼
+      Routes
+        │
+        ▼
+   Middlewares
+        │
+        ▼
+   Controllers
+        │
+        ▼
+     Services
+        │
+        ├── Rules
+        ├── Repositories
+        ├── Builders
+        ├── Helpers
+        ├── Utils
+        └── Integrations
+        │
+        ▼
+ PostgreSQL / MongoDB
 ```
 
-### Ce qui m'intéresse particulièrement
+Les **Services** orchestrent les différents composants nécessaires à l'exécution de la logique métier, tout en maintenant une séparation claire des responsabilités.
 
-* 🌐 REST API Design
-* 🔐 Authentication & Authorization
-* 🛡️ API Security
-* 🗄️ Database Design
-* 📋 Business Logic
-* ✅ Validation & Business Rules
-* 🔄 Transactions
-* 🧩 Modular Architecture
-* ⚡ Maintainable Code
+### Principes auxquels je prête attention
+
+* 🧩 Séparation des responsabilités
+* 🏗️ Modularité
+* 📋 Encapsulation de la logique métier
+* 🔐 Sécurité et contrôle des accès
+* 🗄️ Modélisation et gestion des données
+* ✅ Validation et règles métier
+* 🔄 Gestion des transactions
+* 🛠️ Réutilisabilité du code
+* 📈 Maintenabilité et évolutivité
 
 ---
 
@@ -189,9 +182,9 @@ J'ai principalement pris en charge la **conception et le développement du backe
 ### Mon rôle
 
 * Conception de l'API backend
+* Développement des endpoints
 * Gestion de la logique métier
 * Gestion des données
-* Développement des endpoints
 * Intégration avec la base de données
 
 **Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB` · `Mongoose`
@@ -202,7 +195,7 @@ J'ai principalement pris en charge la **conception et le développement du backe
 
 Projet réalisé en **équipe** pour une entreprise évoluant dans le secteur du e-commerce.
 
-J'ai principalement pris en charge la **partie backend** de l'application.
+J'ai principalement pris en charge la **conception et le développement du backend** de l'application.
 
 ### Mon rôle
 
