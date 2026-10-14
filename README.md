@@ -1,104 +1,67 @@
-<!-- ====================================================== -->
-
-<!--                    HEADER                              -->
-
-<!-- ====================================================== -->
+ <!-- HEADER -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aristide%20GBOHAÏDA&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer&descSize=19&descAlignY=57&animation=fadeIn&color=0:020617,45:0f172a,100:1d4ed8"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Aristide%20GBOHA%C3%8FDA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Node.js%20Backend%20Developer&descSize=18&descAlignY=58&color=0:020617,50:0f172a,100:2563eb" width="100%" alt="Aristide Gbohaïda — Node.js Backend Developer" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Je+con%C3%A7ois+des+syst%C3%A8mes+backend+robustes;Je+d%C3%A9veloppe+des+REST+APIs+avec+Node.js;PostgreSQL+%7C+MongoDB+%7C+Express+%7C+Prisma+%7C+Mongoose;Actuellement+en+transition+vers+TypeScript"
-    alt="Animation de présentation"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/aristide-ghd">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aristide-gbohaida">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aristidegbohaida@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/aristide-ghd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aristide-gbohaida"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aristidegbohaida@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## `$ whoami`
+## 👋 À propos de moi
 
-```text
-Aristide Gbohaida
-├── Rôle             → Backend Developer
-├── Spécialité       → Développement Backend Node.js
-├── Runtime          → Node.js
-├── Framework        → Express
-├── SQL              → PostgreSQL
-├── NoSQL            → MongoDB
-├── ORM              → Prisma
-├── ODM              → Mongoose
-└── Apprentissage    → TypeScript
-```
+**Backend Developer spécialisé en Node.js**, je conçois et développe des APIs REST et des applications backend structurées avec Express.
 
-Je suis **Backend Developer**, spécialisé dans le développement d'applications backend et d'APIs REST avec **Node.js**.
+Je m'intéresse particulièrement à l'architecture logicielle, à la modélisation des données, à la sécurité et à la conception de systèmes maintenables. Je travaille avec PostgreSQL et MongoDB, en utilisant Prisma et Mongoose selon les besoins des projets.
 
-Je travaille principalement avec **PostgreSQL** et **MongoDB**, selon les besoins du projet, en utilisant notamment **Prisma** et **Mongoose** pour l'accès et la gestion des données.
+## 🧭 Domaines d'expertise
 
-Je m'intéresse particulièrement aux problématiques liées à :
-
-* l'architecture backend ;
-* la conception d'APIs REST ;
-* la modélisation des données ;
-* l'authentification et l'autorisation ;
-* la validation ;
-* les règles métier ;
-* la sécurité ;
-* la maintenabilité du code.
-
----
+| 🏗️ Architecture Backend | 🗄️ Données & Persistance | 🔐 Sécurité & Qualité |
+|:---|:---|:---|
+| APIs REST | PostgreSQL | Authentification |
+| Node.js & Express | MongoDB | Autorisation |
+| Services modulaires | Prisma & Mongoose | Validation des données |
+| Logique métier | Modélisation des données | Gestion des erreurs |
+| Séparation des responsabilités | Transactions | Maintenabilité |
 
 ## ⚙️ Stack technique
 
-### Backend
+**Backend & Langages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript — apprentissage" />
 </p>
 
-`JavaScript` · `Node.js` · `Express` · `TypeScript`
-
-### Bases de données & Data Access
+**Bases de données & accès aux données**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mongoose" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
-`PostgreSQL` · `MongoDB` · `Prisma` · `Mongoose`
-
-### Architecture & Engineering
-
-`REST API` · `JWT` · `Authentication` · `Authorization` · `Validation` · `Business Rules` · `Transactions`
-
-### Outils
+**Outils & environnement**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
-`Git` · `GitHub` · `Linux` · `Postman`
 
 ---
 
 ## 🏗️ Architecture Backend
 
-Je privilégie une architecture modulaire avec une **séparation claire des responsabilités**.
+Je privilégie une architecture modulaire fondée sur une séparation claire des responsabilités.
 
 ```text
 Client Web / Mobile
@@ -123,163 +86,121 @@ Client Web / Mobile
         └── Integrations
         │
         ▼
- PostgreSQL / MongoDB
+ Couche de persistance
+        │
+        ├── PostgreSQL
+        └── MongoDB
 ```
 
-Les **Services** orchestrent les différents composants nécessaires à l'exécution de la logique métier, tout en maintenant une séparation claire des responsabilités.
+Les **Services** orchestrent les composants nécessaires à l'exécution des opérations métier. Les règles, repositories, builders, helpers, utilitaires et intégrations interviennent selon les besoins de chaque cas d'utilisation.
 
-### Principes auxquels je prête attention
+### Principes d'ingénierie
 
-* 🧩 Séparation des responsabilités
-* 🏗️ Modularité
-* 📋 Encapsulation de la logique métier
-* 🔐 Sécurité et contrôle des accès
-* 🗄️ Modélisation et gestion des données
-* ✅ Validation et règles métier
-* 🔄 Gestion des transactions
-* 🛠️ Réutilisabilité du code
-* 📈 Maintenabilité et évolutivité
+| Principe | Objectif |
+|:---|:---|
+| Séparation des responsabilités | Des composants aux rôles clairement définis |
+| Logique métier structurée | Des règles explicites et cohérentes |
+| Sécurité dès la conception | Des accès contrôlés et des données validées |
+| Persistance maîtrisée | Des accès aux données organisés |
+| Maintenabilité | Un code compréhensible et évolutif |
 
 ---
 
-# 💼 Expérience professionnelle
+## 💼 Expérience professionnelle
 
-## 🏢 Ebulletin
+### 🏢 Ebulletin — Plateforme de gestion RH
 
-**Ebulletin** est une plateforme backend destinée à des applications **web et mobile**, avec un focus sur la gestion des entreprises et des employés.
+Contribution au développement backend d'une plateforme destinée aux applications web et mobile, consacrée à la gestion des entreprises, des employés et des processus RH.
 
-Le projet est développé dans le cadre de mon activité professionnelle au sein d'une organisation GitHub. Le repository n'est donc pas hébergé sur mon compte personnel.
+**Domaines de travail**
 
-### Domaines sur lesquels je travaille
+- Authentification et gestion des droits d'accès
+- Gestion des entreprises, dossiers et employés
+- Gestion des congés et des absences
+- Validation des données et règles métier
+- Organisation des services et repositories
+- Gestion des documents et intégrations externes
+- Développement d'APIs pour les clients web et mobile
 
-* 🔐 Authentication & Authorization
-* 👥 Gestion des employés
-* 🏢 Gestion des entreprises
-* 📁 Gestion des dossiers
-* 📝 Gestion des congés et absences
-* 🔑 Gestion des droits d'accès
-* 📋 Validation et règles métier
-* 🔄 Orchestration des services
-* ☁️ Gestion des documents
-* 🌐 APIs destinées aux clients web et mobile
+**Stack :** `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `JavaScript`
 
-### Stack
-
-`Node.js` · `Express` · `PostgreSQL` · `Prisma` · `JavaScript`
-
-> Ce projet représente une partie importante de mon expérience actuelle en développement backend.
+<sub>Projet professionnel hébergé dans l'organisation GitHub de l'entreprise.</sub>
 
 ---
 
-# 🚀 Projets
+## 🚀 Projets réalisés en équipe
 
-## 🔬 Plateforme de suivi médical
+### 🔬 Plateforme de suivi médical
 
-Projet réalisé dans le cadre de ma **soutenance de fin de formation**, en collaboration avec un autre développeur.
+Projet de soutenance de fin de formation réalisé en binôme, consacré au suivi de patients atteints d'insuffisance rénale.
 
-Pensé pour les patients atteints d'insuffisance rénale.
+**Ma contribution : conception et développement du backend**
 
-J'ai principalement pris en charge la **conception et le développement du backend** de l'application.
+- Conception et développement des APIs
+- Implémentation de la logique métier
+- Gestion et persistance des données
+- Intégration avec la base de données
 
-### Mon rôle
+**Stack :** `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JavaScript`
 
-* Conception de l'API backend
-* Développement des endpoints
-* Gestion de la logique métier
-* Gestion des données
-* Intégration avec la base de données
+### 🛍️ Application de gestion financière e-commerce
 
-**Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB` · `Mongoose`
+Projet réalisé en équipe pour une entreprise du secteur e-commerce.
 
----
+**Ma contribution : conception et développement du backend**
 
-## 🌸 Application de gestion financière e-commerce
+- Développement des APIs et des fonctionnalités serveur
+- Implémentation de la logique métier
+- Gestion des données et des opérations de persistance
+- Intégration du backend avec les fonctionnalités de l'application
 
-Projet réalisé en **équipe** pour une entreprise évoluant dans le secteur du e-commerce.
-
-J'ai principalement pris en charge la **conception et le développement du backend** de l'application.
-
-### Mon rôle
-
-* Conception et développement du backend
-* Développement des APIs
-* Gestion de la logique métier
-* Gestion de la base de données
-* Intégration entre le backend et les fonctionnalités de l'application
-
-**Technologies :** `JavaScript` · `Node.js` · `Express` · `MongoDB` · `Mongoose`
+**Stack :** `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JavaScript`
 
 ---
 
-# 📚 Actuellement en apprentissage
+## 📚 Apprentissage en cours
 
-## TypeScript
+### TypeScript
 
-Je suis actuellement en transition de **JavaScript vers TypeScript** pour mon développement backend.
+J'approfondis actuellement TypeScript afin de renforcer le typage et la fiabilité de mes applications backend.
 
-Mon objectif est d'intégrer TypeScript dans de véritables architectures backend et de comprendre comment tirer parti du typage statique dans des applications Node.js.
+**Axes d'apprentissage :** types et interfaces, typage des APIs Express, intégration avec les bases de données et structuration de projets Node.js avec TypeScript.
+
+---
+
+## 🎯 Approche de développement
 
 ```text
-JavaScript
-    │
-    ▼
-Fondamentaux TypeScript
-    │
-    ▼
-Types & Interfaces
-    │
-    ▼
-APIs Express typées
-    │
-    ▼
-Prisma + TypeScript
-    │
-    ▼
-Backend TypeScript
+Comprendre le besoin
+        ↓
+Concevoir la solution
+        ↓
+Structurer l'architecture
+        ↓
+Développer la logique métier
+        ↓
+Valider et sécuriser
+        ↓
+Construire pour durer
 ```
+
+Je privilégie les solutions compréhensibles et adaptées au problème plutôt que la complexité technique sans nécessité.
 
 ---
 
-# 🎯 Domaines d'intérêt
+## 🤝 Me contacter
 
-```text
-Backend Development
-│
-├── REST API Design
-├── Architecture Backend
-├── PostgreSQL
-├── MongoDB
-├── Authentication & Authorization
-├── API Security
-├── Business Logic
-├── Database Design
-├── Transactions
-├── Maintainable Code
-└── TypeScript
-```
-
-Je cherche particulièrement à comprendre **pourquoi** une architecture ou une approche est pertinente, et pas seulement à faire fonctionner une fonctionnalité.
-
----
-
-# 🤝 Me contacter
+Je suis ouvert aux échanges autour du développement backend, de Node.js, de l'architecture logicielle et des bonnes pratiques d'ingénierie.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aristide-gbohaida">
-    <img src="https://img.shields.io/badge/LinkedIn-Aristide%20Gbohaida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aristidegbohaida@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/aristide-gbohaida"><img src="https://img.shields.io/badge/LinkedIn-Aristide%20Gbohaida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aristidegbohaida@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <i>Construire des backends fiables, un système à la fois.</i>
+  <i>Concevoir des backends fiables. Structurer des solutions durables.</i>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1d4ed8,55:0f172a,100:020617"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2563eb,50:0f172a,100:020617" width="100%" alt="" />
 </p>
